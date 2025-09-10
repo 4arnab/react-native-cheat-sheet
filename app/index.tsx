@@ -1,6 +1,7 @@
 import { Link } from "expo-router";
 import { Image, StyleSheet, Text, View } from "react-native";
 import Logo from "../assets/images/react-logo.png";
+
 export default function Home() {
   return (
     <View style={styles.container}>
