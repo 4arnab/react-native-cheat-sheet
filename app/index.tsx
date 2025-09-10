@@ -25,6 +25,10 @@ export default function Home() {
         {" "}
         Contact page
       </Link>
+      <Link style={styles.link} href="/Login">
+        {" "}
+        Login
+      </Link>
     </View>
   );
 }
