@@ -4,7 +4,7 @@ import { View } from "react-native";
 const Login = () => {
   return (
     <View>
-      <Link href="/Login">Register</Link>
+      <Link href="/Login">Register page</Link>
     </View>
   );
 };
